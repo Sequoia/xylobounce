@@ -1,0 +1,15 @@
+{
+  "name": "xylobounce",
+  "version": "0.0.0",
+  "description": "xylophone bounce game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sequoia",
+  "license": "GPL3",
+  "dependencies": {
+    "phaser": "~2.1.3",
+    "lodash.throttle": "~2.4.1"
+  }
+}
