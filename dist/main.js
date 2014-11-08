@@ -24,7 +24,7 @@ var mainState = {
 		this.lines = game.add.group();
 		this.lines.enableBody = true;
 		//line
-		this.line = game.add.sprite(game.world.centerX , 20, 'line', 0 )
+		this.line = game.add.sprite(game.world.centerX , 100, 'line', 0 )
 		this.line.anchor.setTo(.5,.5);
 		this.line.scale.setTo(5,5);
 		this.line.angle = 45;
